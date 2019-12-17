@@ -6,4 +6,4 @@ Makefile
 .cproject
 .project
 .settings/
-
+*.o
