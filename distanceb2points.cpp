@@ -20,6 +20,7 @@ int main()
     x2 = 7;
     y2 = 8;
 
+
     cout << "Distance " << distance(x1, y1, x2, y2);
     return 0;
 }
